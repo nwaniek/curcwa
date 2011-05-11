@@ -1,0 +1,3 @@
+all:
+	- name consistency (arrays shall be plural)
+	- function interfaces: sane order of arguments
