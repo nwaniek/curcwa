@@ -1,0 +1,4 @@
+CUDA Rigorous Coupled Wave Analysis.
+
+The project tries to implement RCWA on GPGPU graphics hardware. It is
+not continued at the moment.
